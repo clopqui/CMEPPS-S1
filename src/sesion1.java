@@ -9,6 +9,7 @@ public class sesion1 {
 		System.out.println("Se hace un merge con el master, Nodo 4");
 		System.out.println("Se crea el branch, Nodo 5");
 		System.out.println("Este es el Nodo 8");
+		System.out.println("Este es el Nodo 10");
 	}
 
 }
